@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Chathura-Coder/Test1/main/IMG-20221109-WA0005.jpg" width="300" height="300">
   
-# 🧚 ◍ Queen Elisa MD ◍ 🧚
+# ☬ ꧁CHATHURA's Bot꧂ ☬
 <div align="center">
 Queen Elisa is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Base is cheems bot Special Thanks Fro All helpers
   
